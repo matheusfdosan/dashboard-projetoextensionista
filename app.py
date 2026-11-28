@@ -254,7 +254,7 @@ col3.metric(
 )
 
 col4.metric(
-    "Taxa por 100 mil",
+    "Taxa por 100 mil (média)",
     f"{taxa_media:.2f}"
 )
 
